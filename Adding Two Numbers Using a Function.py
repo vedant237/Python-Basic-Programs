@@ -1,5 +1,3 @@
-
-
 def add(a,b):      #def <function_name> (<parameters>
     c=a+b          #<tab>
     return c       #<tab>
