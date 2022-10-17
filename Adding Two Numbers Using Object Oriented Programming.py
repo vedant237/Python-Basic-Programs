@@ -1,3 +1,14 @@
+#-------------------------------------------------------------------------------
+# Name:        module1
+# Purpose:
+#
+# Author:      VEDANT CHAUDHARI
+#
+# Created:     16-01-2022
+# Copyright:   (c) VEDANT CHAUDHARI 2022
+# Licence:     <your licence>
+#------------------------------------------------------------------------------
+
 class Number:
     def sum(self):
         return self.a + self.b
