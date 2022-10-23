@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      VISHWANATH CHAUDHARI
-#
-# Created:     12-03-2022
-# Copyright:   (c) VISHWANATH CHAUDHARI 2022
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 tuple = (4,3,2,1, [7,8,5])
 
 tuple[4][0] = 3  #However, items of mutable element cannot be changed.But if the element is itself mutable datatype like list,its nested items can be changed
