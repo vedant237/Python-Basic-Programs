@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Deciding Grade of Students
-# Purpose:
-#
-# Author:      VEDANT CHAUDHARI
-#
-# Created:     08-01-2022
-# Copyright:   (c) VEDANT CHAUDHARI 2022
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 marks = int(input('Enter your Marks :'))
 
 if (marks>=90 and marks<=100):
