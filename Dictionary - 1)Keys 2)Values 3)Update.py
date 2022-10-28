@@ -11,11 +11,11 @@
 
 captains = {'England':'Root','Australia':'Smith','India':'Dhoni'}
 
-del(captains['India'])
+keys = captains.keys()
+print(keys)
+
+captains.update({'South Africa':'Plesis'})
 print(captains)
 
-captains.popitem()
-print(captains)
-
-captains.pop('England')
-print(captains)
+values = captains.values()
+print(values)
