@@ -1,15 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      VISHWANATH CHAUDHARI
-#
-# Created:     23-01-2022
-# Copyright:   (c) VISHWANATH CHAUDHARI 2022
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
-
 c1 = float(input('Enter the Marks of Course 1 :'))
 c2 = float(input('Enter the Marks of Course 2 :'))
 c3 = float(input('Enter the Marks of Course 3 :'))
