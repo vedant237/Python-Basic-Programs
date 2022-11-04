@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Identifying Spam Comments
-# Purpose:
-#
-# Author:      VEDANT CHAUDHARI
-#
-# Created:     08-01-2022
-# Copyright:   (c) VEDANT CHAUDHARI 2022
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 comment = input('Enter the Comment :')
 
 if('Subscribe Now' in comment ):
