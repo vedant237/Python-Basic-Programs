@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Listing Basics
-# Purpose:
-#
-# Author:      VEDANT CHAUDHARI
-#
-# Created:     25-12-2021
-# Copyright:   (c) VEDANT CHAUDHARI 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 Marks=[20,25,30]
 print(Marks[0]) #Output = Prints the Zeroth Number
 
