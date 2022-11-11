@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      VISHWANATH CHAUDHARI
-#
-# Created:     23-01-2022
-# Copyright:   (c) VISHWANATH CHAUDHARI 2022
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 class Employee :
     company = 'Infosys'
     code = 420
